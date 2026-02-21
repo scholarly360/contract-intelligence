@@ -5,13 +5,13 @@
 Install with:
 
 ```bash
-npx skills add YOUR_GITHUB_USERNAME/contract-intelligence
+npx skills add scholarly360/contract-intelligence
 ```
 
 Or install a single skill:
 
 ```bash
-npx skills add YOUR_GITHUB_USERNAME/contract-intelligence@confidentiality-general
+npx skills add scholarly360/contract-intelligence@confidentiality-general
 ```
 
 ---
